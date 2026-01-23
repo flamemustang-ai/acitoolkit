@@ -1,6 +1,19 @@
 # acitoolkit [![Documentation Status](https://readthedocs.org/projects/acitoolkit/badge/?version=latest)](https://readthedocs.org/projects/acitoolkit/?badge=latest) [![Build Status](https://api.shippable.com/projects/54ea96315ab6cc13528d52ad/badge?branchName=master)](https://app.shippable.com/projects/54ea96315ab6cc13528d52ad/builds/latest) [![](https://img.shields.io/badge/License-Apache2-blue.svg)](https://img.shields.io/badge/License-Apache2-blue.svg)
 [![Join the chat at https://gitter.im/datacenter/acitoolkit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/datacenter/acitoolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+> [!CAUTION]
+> ## ⚠️ DEPRECATION NOTICE
+>
+> **This project is deprecated and no longer actively maintained.**
+>
+> ### Recommended Alternatives:
+> 1. **[Cisco ACI Cobra SDK](https://github.com/datacenter/cobra/)** - Official Python SDK with full ACI object model support
+> 2. **[PyACI](https://github.com/datacenter/pyaci)** - Lightweight Python library for ACI REST API
+> 3. **[Cisco ACI Ansible Collection](https://galaxy.ansible.com/cisco/aci)** - For automation workflows
+> 4. **[Cisco ACI Terraform Provider](https://registry.terraform.io/providers/CiscoDevNet/aci/latest)** - For Infrastructure as Code
+> 5. **[Network-as-Code (NAC)](https://netascode.cisco.com/)** - Declarative YAML-based configuration
+>
+> No new features will be added.
 
 # Description
 
