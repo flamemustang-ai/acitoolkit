@@ -29,5 +29,5 @@ def login(url, username, password):
 if __name__ == '__main__':
     url = '10.10.20.14'
     username = 'admin'
-    password = 'Mypassword'
+    password = 'Pass_Master'
     print(login(url, username, password))
